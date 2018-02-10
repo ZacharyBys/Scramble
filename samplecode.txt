@@ -1,3 +1,6 @@
 var sampleText = 'hello';
 sampleText = sampleText + ' world';
 document.write(sampleText);
+
+var newVariable = sampleText;
+document.write(newVariable);
