@@ -1,0 +1,3 @@
+var sampleText = 'hello';
+sampleText = sampleText + ' world';
+document.write(sampleText);
