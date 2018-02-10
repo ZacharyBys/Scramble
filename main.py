@@ -4,6 +4,8 @@ def randomString(size=8, chars=string.ascii_uppercase):
     return ''.join(random.choice(chars) for _ in range(size))
 
 inFile = open("samplecode.txt", "r")
+outFile = open("scrambledcode.txt", "w")
+
 codeLines = inFile.readlines()
 variables = []
 replacementVariables = []
@@ -24,8 +26,11 @@ for line in codeLines:
       
     newLines.append(currLine)
 
-for line in newLines:
-    print(line)
+outFile.writelines(newLines)
+
+inFile.close()
+outFile.close()
+
 
 
 

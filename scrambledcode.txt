@@ -1,0 +1,6 @@
+var DYYYNSVR = 'hello';
+DYYYNSVR = DYYYNSVR + ' world';
+document.write(DYYYNSVR);
+
+var ZYXHATAL = DYYYNSVR;
+document.write(ZYXHATAL);
