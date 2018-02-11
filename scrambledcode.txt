@@ -1,6 +1,2 @@
-var DYYYNSVR = 'hello';
-DYYYNSVR = DYYYNSVR + ' world';
-document.write(DYYYNSVR);
-
-var ZYXHATAL = DYYYNSVR;
-document.write(ZYXHATAL);
+var IJLZPTWS = 'hello';
+IJLZPTWS = IJLZPTWS + ' world';document.write(IJLZPTWS);var GLMNSEBH = IJLZPTWS;document.write(GLMNSEBH);document.write(IJLZPTWS);document.write(IJLZPTWS);document.write(IJLZPTWS);document.write(IJLZPTWS);

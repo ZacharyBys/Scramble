@@ -4,3 +4,7 @@ document.write(sampleText);
 
 var newVariable = sampleText;
 document.write(newVariable);
+document.write(sampleText);
+document.write(sampleText);
+document.write(sampleText);
+document.write(sampleText);
